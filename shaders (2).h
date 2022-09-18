@@ -1,0 +1,3 @@
+GLuint program;
+
+void createShaders();
